@@ -40,6 +40,36 @@ function ===> inbuilt function user def recursive function
 #input functions
 
 
+===============================
+22-7-23
+=================================
+
+Study about String Indexing in python
+
+
+1. write a program to calculate area of circle with radius 7
+2. write a program to calculate perimeter of the cricle with radius 10.2
+3. write a program to calculate area of circle with radius (float) (collect using input function)
+4. write a program to calculate perimeter of the cricle with radius (float) (collect it through input function)
+5. Collect radius and height from user, (float)
+calculate Area of cone (area of cone = pi * r * r * h) 
+print output in integer data type and formatted way
+6. https://www.geeksforgeeks.org/python-program-to-add-two-numbers/
+7. https://www.geeksforgeeks.org/python-program-for-simple-interest/
+8. https://www.geeksforgeeks.org/python-program-for-compound-interest/
+9. https://www.geeksforgeeks.org/python-program-for-program-to-find-area-of-a-circle/
+10. https://www.geeksforgeeks.org/python-program-for-sum-of-squares-of-first-n-natural-numbers/
+11: https://www.geeksforgeeks.org/python-program-for-program-for-cube-sum-of-first-n-natural-numbers/
+12. https://www.geeksforgeeks.org/program-print-ascii-value-character/
+
+
+
+
+
+
+
+
+
 
 
 
