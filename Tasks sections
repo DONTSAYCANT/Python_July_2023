@@ -70,6 +70,18 @@ print output in integer data type and formatted way
 
 https://www.w3resource.com/python-exercises/math/ (Any 20 pgms, without def, if, for , while or any advanced concepts)
 
+"pythonprogramtesting"
+
+print(a[3:8])
+print(a[5:-5])
+print(a[-12:-7])
+print(a[-10:15])
+print(a[:6])
+print(a[:-7])
+print(a[5:])
+print(a[-10:])
+print(a[:])
+print(a[4:100])
 
 
 
